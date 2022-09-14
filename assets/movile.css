@@ -1,0 +1,29 @@
+@media (max-width: 500px) {
+  .background{
+    justify-content: space-between;
+  }
+    main{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px; 
+} 
+main section{
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+} 
+main section p{
+    line-height: 30px;
+    
+}
+main section input {
+    padding: 15px;
+}
+
+footer{
+    justify-content: center;
+    
+}
+}
